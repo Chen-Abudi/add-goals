@@ -1,2 +1,2 @@
 # add-goals
-Mini practice project of adding goals in Vue.JS as part of Udemy course by Maximilian Schwarzmüller.
+Mini practice project of adding goals as part of Vue.JS Udemy course by Maximilian Schwarzmüller.

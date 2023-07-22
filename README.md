@@ -1,2 +1,24 @@
 # add-goals
-Mini practice project of adding goals as part of Vue.JS Udemy course by Maximilian Schwarzmüller.
+
+# Developed by Chen Abudi 👩🏽‍💻
+
+## 📢 Overview
+
+- Intro
+- Languages & Technologies
+
+---
+
+## 🔎 Intro
+
+Mini practice project of adding goals in Vue.JS as part of Udemy course.
+Shoutout to **`Maximilian Schwarzmüller`** for this incredible course.
+
+## 🛠️ Languages & Technologies
+
+- Vue.js
+- JavaScript
+- CSS3
+- HTML5
+
+**_To be continued!_**

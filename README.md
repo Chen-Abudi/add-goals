@@ -20,5 +20,3 @@ Shoutout to **`Maximilian Schwarzmüller`** for this incredible course.
 - JavaScript
 - CSS3
 - HTML5
-
-**_To be continued!_**
